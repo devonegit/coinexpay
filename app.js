@@ -23,6 +23,7 @@ import claimRouter from "./routes/claim.js";
 import taskRouter from "./routes/task.js";
 import supportRouter from "./routes/support.js";
 import withdrawalRouter from "./routes/withdrawal.js";
+console.log('testing put')
 
 
 
